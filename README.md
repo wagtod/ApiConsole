@@ -1,1 +1,1 @@
-For complete tutorial you can visit my website https://camellabs.com/
+Sample .Net Framework 4.8 Console App that hosts an API Get method.
